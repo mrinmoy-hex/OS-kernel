@@ -2,6 +2,11 @@
 
 This repository houses a custom operating system kernel along with a Docker container for streamlined development and testing.
 
+# Demo
+![Demo1](demo/demo1.png)
+![Demo12](demo/demo2.png)
+
+
 ## Prerequisites:
 
 - A text editor such as `Vim` or [VSCode](https://code.visualstudio.com/).
