@@ -4,8 +4,6 @@ This repository houses a custom operating system kernel along with a Docker cont
 
 # Demo
 ![Demo1](demo/demo1.png)
-![Demo12](demo/demo2.png)
-
 
 ## Prerequisites:
 
